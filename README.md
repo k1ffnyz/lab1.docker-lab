@@ -59,3 +59,24 @@ Docker — это платформа для разработки, доставк
 Разработано простое веб-приложение на Flask.  
 При обращении к корневому URL (`/`) приложение выводит сообщение:
 
+---
+
+## Скриншоты выполнения лабораторной работы
+
+### Запущенные контейнеры (docker compose ps)
+![docker compose ps](screenshots/docker_ps.png)
+
+---
+
+### Логи PostgreSQL (успешный запуск базы данных)
+![docker compose logs db](screenshots/docker_logs_db.png)
+
+---
+
+### Работа веб-приложения
+![browser hello](screenshots/browser_hello.png)
+
+---
+
+### Версия Docker
+![docker version](screenshots/docker_version.png)
